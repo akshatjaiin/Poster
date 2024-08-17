@@ -6,14 +6,14 @@ This README.md file outlines the process of creating visually impactful comic-st
 
 Here are some examples of the posters created using this process:
 
-![untitled-6_720](https://github.com/user-attachments/assets/b5897342-9624-4f7b-80e1-0b68e54bf417)
-![untitled-7_720](https://gith![untitled-8_720](https://github.com/user-attachments/assets/8aee565a-562e-4e91-bc67-acb8057d1d34)
-ub.com/user-attachments/assets/44997923-21dc-40bc-9bcf-0b1f5ff10537)
-![untitl![untitled-10_720](https://github.com/user-attachments/assets/2a14d265-1792-406b-8b47-40b9560ebd9a)
-ed-9_720](https://github.com/user-a![untitled-11_720](https://github.com/user-attachments/assets/ea2f33b8-15f2-48e3-9eaa-8a428a57daa6)
-ttachments/assets/fcc933d8-b7d5-491a-9245-bd634a701700)
+![untitled-6_720](https://github.com/user-attachments/assets/7ea8cf0d-94f8-450a-939c-837d66b02a5e)
+![untitled-7_720](https://github.com/user-attachments/assets/9735a71b-b36d-42ed-9264-9fb261b51c72)
 
+![untitled-8_720](https://github.com/user-attachments/assets/b4af1472-8a5b-4a09-9243-1ebceadd845d)
+![untitled-9_720](https://github.com/user-attachments/assets/cd584516-41bf-434b-9d51-bf8cb513ffe7)
+![untitled-10_720](https://github.com/user-attachments/assets/8918374f-dd59-45eb-b2b8-dff6bf158af4)
 
+![untitled-7_720](https://github.com/user-attachments/assets/c04f1dd9-1cbd-48a1-bd4d-6407839743cc)
 
 **Software:**
 
